@@ -22,5 +22,3 @@ export const Stats = ({ id, label, percentage }) => {
     </ul>
   );
 };
-
-// доделать 15.12.
