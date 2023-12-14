@@ -1,6 +1,4 @@
-import { Statistics } from './Statistics';
-
-export const Stats = ({ id, label, percentage }) => {
+export const Stats = () => {
   return (
     <ul className={'stat-list'}>
       <li className={'item'}>
